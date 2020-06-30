@@ -1,0 +1,651 @@
+{
+  "frames":{
+    "You_Have_Won_Images_aircraft.png":{
+
+      "frame": {"x":2,"y":2,"w":1195,"h":526},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":82,"y":0,"w":138,"h":149},
+      "sourceSize": {"w":220,"h":223}
+
+    },
+    "You_Have_Won_Images_Rope1_ropes_00000.png":{
+
+      "frame": {"x":2,"y":532,"w":1175,"h":403},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":82,"y":0,"w":138,"h":149},
+      "sourceSize": {"w":220,"h":223}
+
+    },
+    "You_Have_Won_Images_aircraft_wing.png":{
+
+      "frame": {"x":2,"y":939,"w":529,"h":231},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":106,"y":268,"w":529,"h":231},
+      "sourceSize": {"w":1195,"h":526}
+
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00002.png":{
+
+      "frame": {"x":535,"y":939,"w":474,"h":250},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":106,"y":268,"w":529,"h":231},
+      "sourceSize": {"w":1195,"h":526}
+
+    },
+    "You_Have_Won_Images_BigPropeler_prop1_00000.png":{
+
+      "frame": {"x":1013,"y":939,"w":151,"h":143},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":106,"y":268,"w":529,"h":231},
+      "sourceSize": {"w":1195,"h":526}
+
+    },
+    "You_Have_Won_Images_BigPropeler_prop1_00001.png":{
+
+      "frame": {"x":1013,"y":1086,"w":151,"h":143},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":106,"y":268,"w":529,"h":231},
+      "sourceSize": {"w":1195,"h":526}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00015.png":{
+
+      "frame": {"x":2,"y":1174,"w":474,"h":250},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":106,"y":268,"w":529,"h":231},
+      "sourceSize": {"w":1195,"h":526}
+
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00016.png":{
+
+      "frame": {"x":480,"y":1193,"w":474,"h":250},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":106,"y":268,"w":529,"h":231},
+      "sourceSize": {"w":1195,"h":526}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00000.png":{
+
+      "frame": {"x":2,"y":1428,"w":474,"h":249},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":0,"y":1,"w":474,"h":249},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_BigPropeler_prop1_00002.png":{
+      "frame": {"x":958,"y":1233,"w":151,"h":143},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":0,"y":1,"w":474,"h":249},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_BigPropeler_prop1_00003.png":{
+      "frame": {"x":958,"y":1380,"w":151,"h":143},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":0,"y":1,"w":474,"h":249},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00001.png":{
+
+      "frame": {"x":480,"y":1447,"w":474,"h":249},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":0,"y":1,"w":474,"h":249},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00003.png":{
+
+      "frame": {"x":2,"y":1681,"w":473,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_BigPropeler_prop1_00004.png":{
+
+      "frame": {"x":958,"y":1527,"w":151,"h":143},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Small_prop_prop2_00000.png":{
+
+      "frame": {"x":958,"y":1674,"w":116,"h":110},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00004.png":{
+
+      "frame": {"x":479,"y":1700,"w":473,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00014.png":{
+
+      "frame": {"x":2,"y":1935,"w":473,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Small_prop_prop2_00001.png":{
+
+      "frame": {"x":1078,"y":1674,"w":116,"h":110},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Small_prop_prop2_00002.png":{
+
+      "frame": {"x":956,"y":1788,"w":116,"h":110},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Small_prop_prop2_00003.png":{
+
+      "frame": {"x":1076,"y":1788,"w":116,"h":110},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":25}
+    },
+    "You_Have_Won_Images_Small_prop_prop2_00004.png":{
+
+      "frame": {"x":956,"y":1902,"w":116,"h":110},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":1,"y":0,"w":473,"h":250},
+      "sourceSize": {"w":474,"h":25}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00005.png":{
+
+      "frame": {"x":479,"y":1954,"w":472,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":472,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00012.png":{
+
+      "frame": {"x":2,"y":2189,"w":472,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":472,"h":250},
+      "sourceSize": {"w":474,"h":250}
+
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00010.png":{
+
+      "frame": {"x":1076,"y":1902,"w":96,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":0,"y":1,"w":96,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00017.png":{
+
+      "frame": {"x":1076,"y":1927,"w":96,"h":21},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":0,"y":1,"w":96,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00003.png":{
+
+      "frame": {"x":1076,"y":1952,"w":96,"h":21},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":0,"y":1,"w":96,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00007.png":{
+
+      "frame": {"x":1076,"y":1977,"w":95,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":1,"w":96,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00012.png":{
+
+      "frame": {"x":1076,"y":2002,"w":95,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":1,"w":95,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00001.png":{
+
+      "frame": {"x":955,"y":2016,"w":95,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":0,"w":95,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00014.png":{
+
+      "frame": {"x":1054,"y":2027,"w":95,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":0,"w":95,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00000.png":{
+
+      "frame": {"x":955,"y":2041,"w":95,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":0,"w":95,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00005.png":{
+
+      "frame": {"x":1054,"y":2052,"w":95,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":1,"y":0,"w":95,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00015.png":{
+
+      "frame": {"x":955,"y":2066,"w":94,"h":22},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":94,"h":22},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00001.png":{
+
+      "frame": {"x":1053,"y":2077,"w":94,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":1,"w":94,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00004.png":{
+
+      "frame": {"x":955,"y":2092,"w":94,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":94,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00008.png":{
+
+      "frame": {"x":1053,"y":2102,"w":94,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":94,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00008.png":{
+
+      "frame": {"x":955,"y":2117,"w":94,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":94,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00012.png":{
+
+      "frame": {"x":1053,"y":2127,"w":94,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":94,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00008.png":{
+
+      "frame": {"x":955,"y":2142,"w":93,"h":22},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":22},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00006.png":{
+
+      "frame": {"x":1052,"y":2152,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":1,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00009.png":{
+
+      "frame": {"x":955,"y":2168,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":1,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":22}
+
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00011.png":{
+
+      "frame": {"x":1052,"y":2177,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":1,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00013.png":{
+
+      "frame": {"x":955,"y":2193,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":1,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00013.png":{
+
+      "frame": {"x":478,"y":2208,"w":472,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":0,"w":472,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00000.png":{
+
+      "frame": {"x":1052,"y":2202,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00002.png":{
+
+      "frame": {"x":954,"y":2218,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00015.png":{
+
+      "frame": {"x":1051,"y":2227,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00016.png":{
+
+      "frame": {"x":954,"y":2243,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00001.png":{
+
+      "frame": {"x":1051,"y":2252,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00002.png":{
+
+      "frame": {"x":954,"y":2268,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00004.png":{
+
+      "frame": {"x":1051,"y":2277,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00006.png":{
+
+      "frame": {"x":954,"y":2293,"w":93,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":93,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00002.png":{
+
+      "frame": {"x":1051,"y":2302,"w":92,"h":22},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":22},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00004.png":{
+
+      "frame": {"x":954,"y":2318,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":1,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00014.png":{
+
+      "frame": {"x":1050,"y":2328,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":1,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00017.png":{
+
+      "frame": {"x":954,"y":2343,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":1,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00003.png":{
+
+      "frame": {"x":1050,"y":2353,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00006.png":{
+
+      "frame": {"x":954,"y":2368,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00009.png":{
+
+      "frame": {"x":1050,"y":2378,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00011.png":{
+
+      "frame": {"x":954,"y":2393,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00013.png":{
+
+      "frame": {"x":1050,"y":2403,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00007.png":{
+
+      "frame": {"x":954,"y":2418,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00010.png":{
+
+      "frame": {"x":1050,"y":2428,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00013.png":{
+
+      "frame": {"x":954,"y":2443,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00015.png":{
+
+      "frame": {"x":1050,"y":2453,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00005.png":{
+
+      "frame": {"x":2,"y":2478,"w":89,"h":22},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":7,"y":0,"w":89,"h":22},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00017.png":{
+
+      "frame": {"x":2,"y":2443,"w":92,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":4,"y":0,"w":92,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00000.png":{
+
+      "frame": {"x":2,"y":2504,"w":91,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":5,"y":1,"w":91,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00003.png":{
+
+      "frame": {"x":95,"y":2478,"w":91,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":5,"y":1,"w":91,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00007.png":{
+
+      "frame": {"x":98,"y":2443,"w":91,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":5,"y":0,"w":91,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00010.png":{
+
+      "frame": {"x":2,"y":2529,"w":91,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":5,"y":0,"w":91,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00011.png":{
+
+      "frame": {"x":2,"y":2554,"w":91,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":5,"y":0,"w":91,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00014.png":{
+
+      "frame": {"x":2,"y":2579,"w":91,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":5,"y":0,"w":91,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Falg3_flag_3_00016.png":{
+
+      "frame": {"x":97,"y":2503,"w":89,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":7,"y":1,"w":89,"h":21},
+      "sourceSize": {"w":96,"h":22}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00005.png":{
+
+      "frame": {"x":97,"y":2528,"w":89,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":7,"y":0,"w":89,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag1_flag_1_00012.png":{
+
+      "frame": {"x":97,"y":2553,"w":89,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":7,"y":0,"w":89,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00009.png":{
+
+      "frame": {"x":97,"y":2578,"w":89,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":7,"y":0,"w":89,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Flag2_flag_2_00016.png":{
+
+      "frame": {"x":190,"y":2478,"w":89,"h":21},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":7,"y":0,"w":89,"h":21},
+      "sourceSize": {"w":96,"h":21}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00017.png":{
+
+      "frame": {"x":2,"y":1428,"w":474,"h":249},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":0,"y":1,"w":474,"h":249},
+      "sourceSize": {"w":474,"h":250}
+    }
+  },
+  "meta":{
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "img0_pack_5.png",
+    "format": "RGBA8888",
+    "size": {"w":1199,"h":2602},
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:f8f4a01fc605a2580265ae2099c016e4:77fa1c01ba55ef5f0da46ef01a5ea7d4:01daf213c191fbc52b75953283de55c1$"
+  }
+}

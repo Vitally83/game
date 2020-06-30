@@ -1,0 +1,332 @@
+{
+  "frames":{
+    "digits_6.png":{
+      "frame": {"x":2,"y":2,"w":115,"h":189},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":11,"y":0,"w":115,"h":189},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolDog_Blur.png":{
+      "x":121,
+      "y":2,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":142,
+      "th":154,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolGoggles_Blur.png":{
+      "x":267,
+      "y":2,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":142,
+      "th":154,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolGun_Blur.png":{
+      "x":413,
+      "y":2,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":142,
+      "th":154,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolHunter_Blur.png":{
+      "x":559,
+      "y":2,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":142,
+      "th":154,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolPipe_Blur.png":{
+      "x":705,
+      "y":2,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":142,
+      "th":154,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolTRex_Blur.png":{
+      "x":851,
+      "y":2,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":142,
+      "th":154,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolTRex.png":{
+      "x":121,
+      "y":160,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":142,
+      "th":143,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolK_Blur.png":{
+      "x":2,
+      "y":195,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":115,
+      "th":146,
+      "tx":17,
+      "ty":7
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolDog.png":{
+      "x":267,
+      "y":160,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":142,
+      "th":142,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolGoggles.png":{
+      "x":413,
+      "y":160,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":142,
+      "th":142,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolGun.png":{
+      "x":559,
+      "y":160,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":142,
+      "th":142,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolHunter.png":{
+      "x":705,
+      "y":160,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":142,
+      "th":142,
+      "tx":1,
+      "ty":1
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolPipe.png":{
+      "x":851,
+      "y":160,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":142,
+      "th":142,
+      "tx":1,
+      "ty":1
+    },
+    "digits_13.png":{
+      "frame": {"x":267,"y":306,"w":132,"h":135},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":2,"y":27,"w":132,"h":135},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolA_Blur.png":{
+      "x":121,
+      "y":307,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":128,
+      "th":146,
+      "tx":10,
+      "ty":7
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolK.png":{
+      "x":2,
+      "y":345,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":115,
+      "th":135,
+      "tx":17,
+      "ty":7
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolA.png":{
+      "x":403,
+      "y":306,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":128,
+      "th":135,
+      "tx":10,
+      "ty":7
+    },
+    "digits_9.png":{
+      "frame": {"x":535,"y":306,"w":114,"h":188},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":11,"y":1,"w":114,"h":188},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_7.png":{
+      "frame": {"x":253,"y":445,"w":114,"h":187},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":15,"y":1,"w":114,"h":187},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_8.png":{
+      "frame": {"x":121,"y":457,"w":114,"h":187},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":11,"y":1,"w":114,"h":187},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_5.png":{
+      "frame": {"x":2,"y":484,"w":112,"h":186},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":13,"y":3,"w":112,"h":186},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolQ_Blur.png":{
+      "x":371,
+      "y":445,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":111,
+      "th":150,
+      "tx":18,
+      "ty":5
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolQ.png":{
+      "x":653,
+      "y":306,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":111,
+      "th":138,
+      "tx":18,
+      "ty":5
+    },
+    "digits_3.png":{
+      "frame": {"x":768,"y":306,"w":110,"h":187},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":13,"y":1,"w":110,"h":187},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_4.png":{
+      "frame": {"x":653,"y":448,"w":110,"h":184},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":13,"y":3,"w":110,"h":184},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_2.png":{
+      "frame": {"x":882,"y":306,"w":108,"h":188},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":14,"y":1,"w":108,"h":188},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_12.png":{
+
+      "frame": {"x":767,"y":497,"w":108,"h":112},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":14,"y":43,"w":108,"h":112},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_0.png":{
+      "frame": {"x":879,"y":498,"w":107,"h":186},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":15,"y":2,"w":107,"h":186},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "LondonHunter/Universal/BlurredSymbols/SymbolJ_Blur.png":{
+      "x":767,
+      "y":613,
+      "w":144,
+      "h":156,
+      "t":true,
+      "tw":102,
+      "th":148,
+      "tx":15,
+      "ty":7
+    },
+    "LondonHunter/Universal/StaticSymbols/SymbolJ.png":{
+      "x":873,
+      "y":688,
+      "w":144,
+      "h":144,
+      "t":true,
+      "tw":102,
+      "th":136,
+      "tx":15,
+      "ty":7
+    },
+    "digits_1.png":{
+      "frame": {"x":486,"y":498,"w":80,"h":184},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":28,"y":3,"w":80,"h":184},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_10.png":{
+      "frame": {"x":570,"y":498,"w":57,"h":80},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":40,"y":117,"w":57,"h":80},
+      "sourceSize": {"w":135,"h":197}
+    },
+    "digits_11.png":{
+      "frame": {"x":570,"y":582,"w":54,"h":56},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":40,"y":117,"w":54,"h":56},
+      "sourceSize": {"w":135,"h":197}
+    }
+  },
+  "meta":{
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "img5_pack_7.png",
+    "format": "RGBA8888",
+    "size": {"w":1444,"h":2178},
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:f8f4a01fc605a2580265ae2099c016e4:77fa1c01ba55ef5f0da46ef01a5ea7d4:01daf213c191fbc52b75953283de55c1$"
+  }
+}

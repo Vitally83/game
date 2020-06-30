@@ -1,0 +1,61 @@
+{
+  "frames":{
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00006.png":{
+
+      "frame": {"x":2,"y":2,"w":471,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":471,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00007.png":{
+
+      "frame": {"x":477,"y":2,"w":471,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":471,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00008.png":{
+
+      "frame": {"x":2,"y":256,"w":471,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":471,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00009.png":{
+
+      "frame": {"x":477,"y":256,"w":471,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":471,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00010.png":{
+
+      "frame": {"x":2,"y":510,"w":471,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":471,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    },
+    "You_Have_Won_Images_Bottom_Rope_rope-bags_00011.png":{
+
+      "frame": {"x":477,"y":510,"w":471,"h":250},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x":3,"y":0,"w":471,"h":250},
+      "sourceSize": {"w":474,"h":250}
+    }
+  },
+  "meta":{
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "img1_pack_5.png",
+    "format": "RGBA8888",
+    "size": {"w":1199,"h":2602},
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:f8f4a01fc605a2580265ae2099c016e4:77fa1c01ba55ef5f0da46ef01a5ea7d4:01daf213c191fbc52b75953283de55c1$"
+  }
+}
